@@ -18,6 +18,9 @@ the link redirects us to the java servlet created by the template , where it dis
 
 Here is the outcome of the java servlet implemented:
 
+
+![image](https://user-images.githubusercontent.com/65030802/152700051-3974bf5d-64e0-4811-b0fc-59309c4c5935.png)
+
  
 
 
