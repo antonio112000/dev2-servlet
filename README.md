@@ -13,3 +13,11 @@ the link redirects us to the java servlet created by the template , where it dis
 
 
 
+![image](https://user-images.githubusercontent.com/65030802/152699944-dae694db-9ff7-4952-b93c-cbd7c0a29c75.png)
+
+
+Here is the outcome of the java servlet implemented:
+
+ 
+
+
